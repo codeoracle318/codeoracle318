@@ -52,52 +52,51 @@ Database <br/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=plastic&logo=google-cloud)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
-   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white)  
-   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)  
-   ![RDS](https://img.shields.io/badge/RDS-527FFF?style=plastic&logo=amazon-rds&logoColor=white)  
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)  
-   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=plastic&logo=amazon-rds&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
 
 
 CMS <br/>
-   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white)  
-   ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=plastic&logo=shopify&logoColor=white)  
-   ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=plastic&logo=elementor&logoColor=white)  
-   ![Divi](https://img.shields.io/badge/Divi-3A4A8C?style=plastic&logo=divi&logoColor=white)  
-   ![Beaver Builder](https://img.shields.io/badge/Beaver_Builder-FF6B4E?style=plastic&logo=beaver-builder&logoColor=white)  
-   ![ACF](https://img.shields.io/badge/ACF_(Advanced_Custom_Fields)-0073AA?style=plastic&logo=wordpress&logoColor=white)  
-   ![Theme Development](https://img.shields.io/badge/Theme_Development-3A4A8C?style=plastic&logo=wordpress&logoColor=white)  
-   ![Plugin Development](https://img.shields.io/badge/Plugin_Development-21759B?style=plastic&logo=wordpress&logoColor=white)  
-   ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=plastic&logo=woocommerce&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=plastic&logo=shopify&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=plastic&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-3A4A8C?style=plastic&logo=divi&logoColor=white)
+![Beaver Builder](https://img.shields.io/badge/Beaver_Builder-FF6B4E?style=plastic&logo=beaver-builder&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF_(Advanced_Custom_Fields)-0073AA?style=plastic&logo=wordpress&logoColor=white)
+![Theme Development](https://img.shields.io/badge/Theme_Development-3A4A8C?style=plastic&logo=wordpress&logoColor=white)
+![Plugin Development](https://img.shields.io/badge/Plugin_Development-21759B?style=plastic&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=plastic&logo=woocommerce&logoColor=white)
 
 
 Third-Party API <br/>
-   ![Social Media API](https://img.shields.io/badge/Social_Media_API-FF4500?style=plastic&logo=twitter&logoColor=white)  
-   ![Payment Gateway](https://img.shields.io/badge/Payment_Gateway-008CDD?style=plastic&logo=stripe&logoColor=white)  
-   ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=twilio&logoColor=white)  
-   ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=plastic&logo=sendgrid&logoColor=white)  
-   ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=plastic&logo=mailchimp&logoColor=black)  
+![Social Media API](https://img.shields.io/badge/Social_Media_API-FF4500?style=plastic&logo=twitter&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Payment_Gateway-008CDD?style=plastic&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=twilio&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=plastic&logo=sendgrid&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=plastic&logo=mailchimp&logoColor=black)
 
 Mobile <br/>
-   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=plastic&logo=react&logoColor=black)  
-   ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)  
-   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=plastic&logo=react&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
 
 Blockchain <br/>
-   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=plastic&logo=solidity&logoColor=white)  
-   ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)  
-   ![Web3.js](https://img.shields.io/badge/Web3.js-E6B030?style=plastic&logo=ethereum&logoColor=white)  
-   ![Smart Contract](https://img.shields.io/badge/Smart_Contract-3C3C3D?style=plastic&logo=ethereum&logoColor=white)  
-   ![Crypto Token](https://img.shields.io/badge/Crypto_Token-F7931A?style=plastic&logo=bitcoin&logoColor=white)  
-   ![NFT](https://img.shields.io/badge/NFT-3B3B3B?style=plastic&logo=opensea&logoColor=white)  
-   ![PancakeSwap](https://img.shields.io/badge/PancakeSwap-FF629A?style=plastic&logo=pancakeswap&logoColor=white)  
-   ![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=plastic&logo=uniswap&logoColor=white)  
-   ![DeFi](https://img.shields.io/badge/DeFi-3B3B3B?style=plastic&logo=ethereum&logoColor=white)  
-   ![DApp](https://img.shields.io/badge/DApp-3B3B3B?style=plastic&logo=ethereum&logoColor=white)  
-   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white)  
-   ![BSC](https://img.shields.io/badge/BSC-F0B90B?style=plastic&logo=binance&logoColor=black)  
-   ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=plastic&logo=solana&logoColor=black)  
-
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=plastic&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-E6B030?style=plastic&logo=ethereum&logoColor=white)
+![Smart Contract](https://img.shields.io/badge/Smart_Contract-3C3C3D?style=plastic&logo=ethereum&logoColor=white)
+![Crypto Token](https://img.shields.io/badge/Crypto_Token-F7931A?style=plastic&logo=bitcoin&logoColor=white)
+![NFT](https://img.shields.io/badge/NFT-3B3B3B?style=plastic&logo=opensea&logoColor=white)
+![PancakeSwap](https://img.shields.io/badge/PancakeSwap-FF629A?style=plastic&logo=pancakeswap&logoColor=white)
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=plastic&logo=uniswap&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-3B3B3B?style=plastic&logo=ethereum&logoColor=white)
+![DApp](https://img.shields.io/badge/DApp-3B3B3B?style=plastic&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white)
+![BSC](https://img.shields.io/badge/BSC-F0B90B?style=plastic&logo=binance&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=plastic&logo=solana&logoColor=black)
 Cloud & DevOps <br/>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
@@ -106,12 +105,11 @@ Cloud & DevOps <br/>
 E-Commerce <br/>
 
 Dev-Tools <br/>
-   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white)  
-   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)
 
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
