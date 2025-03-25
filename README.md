@@ -2,12 +2,18 @@
 Senior Web Developer | 12+ Years of Experience | 200+ Projects Delivered Worldwide
 
 
-Hi, I am senior Software Engineer with 12+ years experience.
+Hi, I am senior Software Engineer with 12+ years experience. <br/>
 🚀 Passionate about building high-impact web solutions that drive growth, revenue, and success for businesses of all sizes.
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+- 🌟 Business Transformation – Turn ideas into scalable, high-performing digital products.
+- 🚀 Performance Optimization – Speed, SEO, UX—everything fine-tuned for growth.
+- 💡 Free Consultations – Let’s discuss your goals with no strings attached.
+- 🎯 Tailored Strategies – Data-driven solutions for your specific market.
+- 🔍 Problem-Solving Focus – I identify bottlenecks and turn them into opportunities.
+- 🎨 Redesign & Troubleshooting – Modern, user-friendly, and conversion-driven designs.
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
@@ -15,12 +21,7 @@ Hi, I am senior Software Engineer with 12+ years experience.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- 🌟 Business Transformation – Turn ideas into scalable, high-performing digital products.
-- 🚀 Performance Optimization – Speed, SEO, UX—everything fine-tuned for growth.
-- 💡 Free Consultations – Let’s discuss your goals with no strings attached.
-- 🎯 Tailored Strategies – Data-driven solutions for your specific market.
-- 🔍 Problem-Solving Focus – I identify bottlenecks and turn them into opportunities.
-- 🎨 Redesign & Troubleshooting – Modern, user-friendly, and conversion-driven designs.
+
 
 
 ## 🛠️ Technical Expertise
@@ -40,7 +41,6 @@ Backend <br/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql)
@@ -97,12 +97,11 @@ Blockchain <br/>
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white)
 ![BSC](https://img.shields.io/badge/BSC-F0B90B?style=plastic&logo=binance&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=plastic&logo=solana&logoColor=black)
+
 Cloud & DevOps <br/>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
 
-
-E-Commerce <br/>
 
 Dev-Tools <br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
