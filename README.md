@@ -1,6 +1,21 @@
-## Welcome To CoderOracle! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50">
+## Welcome To CodeOracle! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50">
+Senior Web Developer | 12+ Years of Experience | 200+ Projects Delivered Worldwide
+
 
 Hi, I am senior Software Engineer with 10+ years experience.
+🚀 Passionate about building high-impact web solutions that drive growth, revenue, and success for businesses of all sizes.
+
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
 
 ## ⚡ Technologies
 
@@ -31,6 +46,6 @@ Hi, I am senior Software Engineer with 10+ years experience.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=codeoracle318&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
